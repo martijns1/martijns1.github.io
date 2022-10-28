@@ -15,7 +15,7 @@
     height: 30px;
     background: rgb(70,70,70);
 }
-.third-level-menu > li:hover { background: #CCCCCC; }
+.third-level-menu > li:hover { background: rgb(70,70,70); }
 
 .second-level-menu
 {
@@ -35,7 +35,7 @@
     height: 30px;
     background: rgb(70,70,70);
 }
-.second-level-menu > li:hover { background: #CCCCCC; }
+.second-level-menu > li:hover { background: rgb(70,70,70); }
 
 .top-level-menu
 {
@@ -50,9 +50,9 @@
     float: left;
     height: 30px;
     width: 150px;
-    background: rgb(70,70,70);
+    background:  rgb(70,70,70);
 }
-.top-level-menu > li:hover { background: #CCCCCC; }
+.top-level-menu > li:hover { background: rgb(70,70,70); }
 
 .top-level-menu li:hover > ul
 {
