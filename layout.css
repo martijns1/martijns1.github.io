@@ -75,3 +75,15 @@
     line-height: 30px;
 }
 .top-level-menu a:hover { color: #000000; }
+
+fieldset
+{
+  background-color:#CCC;
+  max-width:500px;
+  padding:16px;	
+}
+.legend1
+{
+  margin-bottom:0px;
+  margin-left:16px;
+}
