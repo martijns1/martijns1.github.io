@@ -1,8 +1,10 @@
 
-  body {
-    background-image: url("martijn3lagen.jpg");
+ body {
+    font-family: sans-serif;
+    background-position: left top;
+    background-image: url("computer.png");
+    background-attachment: fixed;
   }
-
 
 
 
