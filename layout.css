@@ -121,7 +121,7 @@ div.alles {
 
 /* hiermee kan ik dmv een div afbeeldingen naar rechts link of centreren */
   div {  
-    border: 2px solid rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
     }
     img{
     height: 250px;
@@ -137,8 +137,3 @@ div.alles {
     text-align: right;
     }
 
-    img {
-
-      float: right;
-      
-      }
