@@ -136,3 +136,9 @@ div.alles {
     #right{  
     text-align: right;
     }
+
+    img {
+
+      float: right;
+      
+      }
