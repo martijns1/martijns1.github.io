@@ -23,9 +23,9 @@
 .third-level-menu > li
 {
     height: 30px;
-    background: rgb(70,70,70);
+    background: #cccccc;
 }
-.third-level-menu > li:hover { background: rgb(70,70,70); }
+.third-level-menu > li:hover { background: #cccccc; }
 
 .second-level-menu
 {
@@ -43,9 +43,9 @@
 {
     position: relative;
     height: 30px;
-    background: rgb(70,70,70);
+    background: #cccccc;
 }
-.second-level-menu > li:hover { background: rgb(70,70,70); }
+.second-level-menu > li:hover { background: #cccccc; }
 
 .top-level-menu
 {
@@ -60,9 +60,9 @@
     float: left;
     height: 30px;
     width: 150px;
-    background:  rgb(70,70,70);
+    background:  #cccccc;;
 }
-.top-level-menu > li:hover { background: rgb(70,70,70); }
+.top-level-menu > li:hover { background: #cccccc; }
 
 .top-level-menu li:hover > ul
 {
@@ -84,11 +84,11 @@
     display: block;
     line-height: 30px;
 }
-.top-level-menu a:hover { color: #000000; }
+.top-level-menu a:hover { color: #cccccc; }
 
 fieldset
 {
-  background-color:#CCC;
+  background-color:#cccccc;
   max-width:500px;
   padding:16px;	
   margin:auto;
