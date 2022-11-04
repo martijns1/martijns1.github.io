@@ -2,7 +2,7 @@
  body {
     font-family: sans-serif;
     background-position: left top;
-    background-image: url("computer.png");
+    background-image: url("gray-abstract-wireframe-technology-background_53876-101941.webp");
     background-attachment: fixed;
   }
 
@@ -91,6 +91,7 @@ fieldset
   background-color:#CCC;
   max-width:500px;
   padding:16px;	
+  margin:auto;
 }
 .legend1
 {
