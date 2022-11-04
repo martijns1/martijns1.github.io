@@ -98,3 +98,15 @@ fieldset
   margin-bottom:0px;
   margin-left:16px;
 }
+
+
+
+div.alles {
+    text-align: center;
+  }
+  
+  ul.dropdown {
+    display: inline-block;
+    text-align: left;
+  }
+  
