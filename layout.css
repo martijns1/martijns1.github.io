@@ -1,10 +1,14 @@
 
+ /* achtergrond van de pagina aangemaakt */
+ 
  body {
     font-family: sans-serif;
     background-position: left top;
     background-image: url("gray-abstract-wireframe-technology-background_53876-101941.webp");
     background-attachment: fixed;
   }
+
+ /* dropdown menu met uiterlijk */
 
 .third-level-menu
 {
@@ -64,26 +68,28 @@
 
 .top-level-menu li:hover > ul
 {
-    /* On hover, display the next level's menu */
+    /* als je er overheen gaat krijg je de volgende paginas te zien */
     display: inline;
 }
 
 
-/* Menu Link Styles */
+/* Hier wordt de stijl beschreven */
 
-.top-level-menu a /* Apply to all links inside the multi-level menu */
+.top-level-menu a 
 {
     font: bold 14px Arial, Helvetica, sans-serif;
     color: #FFFFFF;
     text-decoration: none;
     padding: 0 0 0 10px;
 
-    /* Make the link cover the entire list item-container */
+    
     display: block;
     line-height: 30px;
 }
 .top-level-menu a:hover { color: #aaaa; }
 
+
+/* Hier wordt de fieldset aangemaakt waar alle tekst etc in komt*/
 fieldset
 {
   background-color:#cccccc;
@@ -98,7 +104,6 @@ fieldset
 }
 
 
-
 div.alles {
     text-align: center;
   }
@@ -108,6 +113,7 @@ div.alles {
     text-align: left;
   }
   
+/* Hier wordt de footer aangemaakt die aan de onderkant van de pagina is */
 
   .footer {
     position: fixed;
